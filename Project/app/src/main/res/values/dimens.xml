@@ -4,7 +4,6 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="titleMargin">30dp</dimen>
     <dimen name="boxPaddingTop">10dp</dimen>
-    <dimen name="boxPaddingRight">30dp</dimen>
     <dimen name="boxMargin">10dp</dimen>
     <dimen name="titleSize">25sp</dimen>
 </resources>
