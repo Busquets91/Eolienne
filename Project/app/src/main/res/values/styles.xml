@@ -7,5 +7,20 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="TitleStyle">
+        <item name="android:textColor">@color/titleColor</item>
+        <item name="android:textSize">@dimen/titleSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+    <style name="BoxStyle">
+        <item name="android:paddingBottom">@dimen/boxPaddingTop</item>
+        <item name="android:paddingTop">@dimen/boxPaddingTop</item>
+        <item name="android:paddingLeft">@dimen/boxPaddingRight</item>
+        <item name="android:paddingRight">@dimen/boxPaddingRight</item>
+        <item name="android:background">@color/boxColor</item>
+        <item name="android:layout_margin">@dimen/boxMargin</item>
+    </style>
+
 
 </resources>
