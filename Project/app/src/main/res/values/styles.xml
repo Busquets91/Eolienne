@@ -16,7 +16,6 @@
     <style name="BoxStyle">
         <item name="android:paddingBottom">@dimen/boxPaddingTop</item>
         <item name="android:paddingTop">@dimen/boxPaddingTop</item>
-        <item name="android:paddingTop">@dimen/boxPaddingTop</item>
         <item name="android:background">@color/boxColor</item>
         <item name="android:layout_margin">@dimen/boxMargin</item>
     </style>

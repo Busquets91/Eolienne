@@ -1,0 +1,7 @@
+#Thu Dec 08 11:42:18 CET 2016
+base.0=C\:\\Users\\Vivien\\Documents\\Eolienne\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a89cd033beaa0c33925a8041780441ea65a3f01a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Vivien\\Documents\\Eolienne\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f12f91a10493b2e1dd5898daea00f3505b0b3677\\classes.dex
+base.1=C\:\\Users\\Vivien\\Documents\\Eolienne\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f12f91a10493b2e1dd5898daea00f3505b0b3677
+file.0=C\:\\Users\\Vivien\\Documents\\Eolienne\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a89cd033beaa0c33925a8041780441ea65a3f01a\\classes.dex
