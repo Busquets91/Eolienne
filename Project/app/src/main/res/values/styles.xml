@@ -7,18 +7,14 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <style name="TitleStyle">
-        <item name="android:textColor">@color/titleColor</item>
-        <item name="android:textSize">@dimen/titleSize</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:layout_gravity">center_horizontal</item>
-    </style>
-    <style name="BoxStyle">
-        <item name="android:paddingBottom">@dimen/boxPaddingTop</item>
-        <item name="android:paddingTop">@dimen/boxPaddingTop</item>
-        <item name="android:background">@color/boxColor</item>
-        <item name="android:layout_margin">@dimen/boxMargin</item>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
 </resources>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="24"
-    density="xxhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="tvdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="1444322957667131"
-    token="-5148881637420386562"
+    timestamp="2225221447765391"
+    token="-3452357579016608391"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3322" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="815" />
+        duration="0" />
     <task
         name="verifier"
-        duration="429" />
+        duration="0" />
 
     <artifact
         location="C:\Users\Vivien\Documents\Eolienne\Project\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1444322957667131"
+        timestamp="2225221447765391"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Vivien\Documents\Eolienne\Project\app\build\outputs\apk\app-debug.apk"

@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Eolienne</string>
-    <string name="titlePower">Puissance</string>
+    <string name="app_name">TestAndroid</string>
+    <string name="action_settings">Settings</string>
 </resources>
